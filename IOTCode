@@ -1,4 +1,4 @@
-Arduino IDE C code
+// Arduino IDE C code
 
 #include <Arduino.h>
 #include <Wire.h>
